@@ -1,0 +1,78 @@
+* {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  font-size: small;
+}
+
+.mr {
+  margin-right: 3%;
+}
+.ml {
+  margin-left: 3%;
+}
+i {
+  color: white;
+  cursor: pointer;
+  font-size: 150%;
+}
+.navbar-nav {
+  width: 800px;
+}
+footer p,
+.para p {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+footer {
+  background-color: black;
+  color: white;
+}
+/* .paddingrl {
+  width: 90%;
+}
+.btn {
+  width: 100%;
+  height: 65%;
+  border-radius: 0px;
+  border-color: black;
+}
+.btnn:hover {
+  background-color: black;
+  border-color: black;
+}
+.btn-dark {
+  background-color: black;
+}
+.btn-danger {
+  background-color: red;
+}
+.bold {
+  font-weight: bold;
+} */
+
+.btn {
+  background-color: red;
+  border-color: black;
+}
+.btn:hover {
+  background-color: black;
+  border-color: black;
+}
+.height {
+  height: 50%;
+}
+
+.price {
+  /* border: 1px;
+  border-color: black; */
+  border-style: solid;
+  border-width: medium;
+}
+.btnn {
+  color: white;
+  background-color: red;
+  border-color: black;
+  width: 40%;
+  /* padding: 5%; */
+}
